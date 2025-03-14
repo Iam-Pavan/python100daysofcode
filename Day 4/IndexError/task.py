@@ -5,5 +5,13 @@ states_of_america = ["Delaware", "Pennsylvania", "New Jersey", "Georgia", "Conne
                      "California", "Minnesota", "Oregon", "Kansas", "West Virginia", "Nevada", "Nebraska", "Colorado",
                      "North Dakota", "South Dakota", "Montana", "Washington", "Idaho", "Wyoming", "Utah", "Oklahoma",
                      "New Mexico", "Arizona", "Alaska", "Hawaii"]
-
-print(states_of_america)
+num = len(states_of_america)
+print(num)
+print(len(states_of_america))
+print(states_of_america[num -1])
+print()
+fruits = ["Cherry", "Apple", "Pear"]
+veg = ["Cucumber", "Kale", "Spinnach"]
+fruits_and_veg = [fruits, veg]
+print(fruits_and_veg)
+print(states_of_america[49:50])
