@@ -78,8 +78,8 @@ python script_name.py
 
 ## 🌟 Let's Connect!
 🚀 Follow my journey and connect with me:
-- **GitHub:** [Iam-Pavan](https://github.com/Iam-Pavan)
-- **LinkedIn:** [Your LinkedIn Profile](#)
-- **Portfolio:** [Your Portfolio](#)
+- **GitHub:** [Iam-Pavan](https://github.com/ZeroParadoxX)
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/elitepavan/)
+- **Portfolio:** [Your Portfolio](https://pavanpw.netlify.app)
 
 🔥 _"Consistency is the key to mastery! Let's code daily and grow together!"_ 🔥
